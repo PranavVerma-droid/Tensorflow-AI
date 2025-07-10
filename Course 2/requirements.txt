@@ -1,0 +1,7 @@
+google-cloud-logging
+tensorflow
+tensorflow-datasets
+numpy 
+scipy
+protobuf
+typing-extensions
